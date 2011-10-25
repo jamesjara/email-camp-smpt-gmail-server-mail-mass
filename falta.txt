@@ -1,0 +1,2 @@
+quitar el item 1 de la lista de destinos , que es uno mismo
+guardar correos pegados por signo LISTOS-ERRORES como un string y luego abrir separando items por un signo
